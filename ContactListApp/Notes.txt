@@ -1,0 +1,3 @@
+Step 1 : Download and install node, mongodb
+Step 2 : create a folder for app (contactListApp)
+Step 3 : Open CMD and run "npm install express -save" 
